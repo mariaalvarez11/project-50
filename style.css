@@ -1,0 +1,27 @@
+.menu {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(128, 128, 128, 0.671);
+}
+
+body{
+    background-color:rgba(71, 183, 248, 0.829);
+    
+}
+
+.grid {
+    display: flex;
+    flex-wrap: nowrap;
+
+}
+
+.grid img {
+    border: 2px solid black;
+    border-radius: 50px;
+}
+
+.origami {
+    border-radius: 20px;
+    background-color: rgba(51, 139, 207, 0.445);
+    width: 310px;
+}
